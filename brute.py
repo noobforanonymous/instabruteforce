@@ -11,7 +11,7 @@ rthacks.get('https://www.instagram.com/accounts/login/')
 sleep(3)
 username = rthacks.find_element_by_name('username')
 
-username.send_keys('linuxlover127001')
+username.send_keys('your username')
 
 password = rthacks.find_element_by_name('password')
 passfile=open('pass.txt','r')
