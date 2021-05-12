@@ -2,8 +2,6 @@
 
 <h1>Windows</h1>
 <h3>How to Install chromedriver</h3>
-<h3>step 1 : check your chrome version</h3>
-<br>
 <code>how to check your chrome version</code>
 <pre>Go to chrome settings and click about chrome and now you saw your version</pre>
 <h3>step 2 : Now <a href="https://chromedriver.chromium.org/downloads">click here</a> and you redirect to chromedriver webpage select your chrome version and download the webdriver ..the driver name like this chromedriver_win32</h3>
