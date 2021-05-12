@@ -14,6 +14,6 @@
 
 username.send_keys('your username')</pre>
 <h3>enter your password list dictionary</h3>
-<h3>if you don't know how to set password dictionary visit my youtube channel</h3>
+<h3>if you don't know how to set password dictionary visit my <a href = "https://www.youtube.com/channel/UCpKJnmkqAYVqLbl3ZWhh4yA"> youtube channel </a></h3>
 <pre>password = rthacks.find_element_by_name('password')
 passfile=open('pass.txt','r')</pre>
