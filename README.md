@@ -15,3 +15,5 @@ username.send_keys('your username')</pre>
 <h3>if you don't know how to set password dictionary visit my <a href = "https://www.youtube.com/channel/UCpKJnmkqAYVqLbl3ZWhh4yA"> youtube channel </a></h3>
 <pre>password = rthacks.find_element_by_name('password')
 passfile=open('pass.txt','r')</pre>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7S5ucqSs1Kk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
