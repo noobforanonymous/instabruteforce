@@ -16,4 +16,3 @@ username.send_keys('your username')</pre>
 <pre>password = rthacks.find_element_by_name('password')
 passfile=open('pass.txt','r')</pre>
 
-
